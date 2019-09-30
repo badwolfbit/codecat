@@ -3,3 +3,7 @@ package-lock.json
 
 #dependency directories
 node_modules
+
+#bundle
+/dist/bundle.js
+/dist/bundle.js.gz

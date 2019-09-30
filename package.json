@@ -1,0 +1,24 @@
+{
+  "name": "codecat",
+  "version": "1.0.0",
+  "description": "JavaSCript coding quiz prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omenwolf/codecat.git"
+  },
+  "author": "Marc Benedict L. Choa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omenwolf/codecat/issues"
+  },
+  "homepage": "https://github.com/omenwolf/codecat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.11.0",
+    "path": "^0.12.7"
+  }
+}

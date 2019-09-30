@@ -243,7 +243,7 @@ function questionRecall(num, prevArr) {
         nArray[2] === nArray[5] ||
         nArray[3] === nArray[4] ||
         nArray[3] === nArray[5] ||
-        nArray[4] === nArray[5] ||
+        nArray[4] === nArray[5]
     ) {
         return questionRecall(num);
     } else {

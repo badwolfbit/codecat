@@ -1,2 +1,4 @@
+![prompt](./documentation/prompt.gif)
+
 # codecat
-CS Prep Javascript Project
+in-browser multiple-choice JavaScript prompt 
